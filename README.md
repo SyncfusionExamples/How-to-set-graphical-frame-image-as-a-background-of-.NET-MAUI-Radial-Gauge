@@ -1,6 +1,6 @@
 # How to set graphical frame image as a background of .NET MAUI Radial Gauge
 
-This repository contains sample for how to set a graphical frame image as a background of the [Syncfusion .NET MAUI Radial Gauge](https://help.syncfusion.com/maui/radial-gauge/getting-started) control.
+This repository contains sample to set a graphical frame image as a background of the [Syncfusion .NET MAUI Radial Gauge](https://help.syncfusion.com/maui/radial-gauge/getting-started) control.
 
 Please refer the KB through this [link](https://www.syncfusion.com/kb/13094/how-to-set-a-graphical-frame-image-as-a-background-of-net-maui-radial-gauge-control).
 
